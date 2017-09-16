@@ -17,7 +17,7 @@
 
     var useWindow = window;
     
-    // From https://developer.mozilla.org/en-US/docs/r-web/JavaScript/Reference/Global_Objects/Object/keys
+    // From https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/keys
     if (!Object.keys) {
         Object.keys = (function() {
             'use strict';

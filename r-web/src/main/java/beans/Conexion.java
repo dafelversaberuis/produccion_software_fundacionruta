@@ -27,16 +27,16 @@ public class Conexion {
 		DB_driver = "com.mysql.jdbc.Driver";
 		
 		//localhost
-		url = "jdbc:mysql://localhost:3306/fundacionruta";
-		username = "root";
-		password = "12345678";
+//		url = "jdbc:mysql://localhost:3306/produccion_fundacionruta";
+//		username = "root";
+//		password = "12345678";
 		
 
 		
 		//v3
-//		url = "jdbc:mysql://mysql:3306/produccion_fundacionruta";
-//		username = "dannypipe_fundacionruta";
-//		password = "meli0523_fundacionruta";
+		url = "jdbc:mysql://mysql:3306/produccion_fundacionruta";
+		username = "dannypipe_fundacionruta";
+		password = "meli0523_fundacionruta";
 		
 		//v2 ni idea
     

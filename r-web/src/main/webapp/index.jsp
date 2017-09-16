@@ -8,7 +8,7 @@
 <%@page import="beans.Seccion"%>
 <%@page import="beans.RepositorioFotos"%>	
 <html>
-<!-- Mirrored from codepassenger.com/html/femina/index-image-slider.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 08 Mar 2016 20:20:45 GMT -->
+
 <head>
 	<meta charset="UTF-8">
 	<title>MUASOFT - Software</title>
@@ -253,11 +253,30 @@ session.invalidate();
 
    
 
-   <!-- map start -->
+   <!-- map start 
    <div id="map" class="map">
 	   	
-   </div>
+   </div>-->
    <!-- map end -->
+   
+   
+   <br/>
+   <br/>
+   <br/>
+   <br/>
+   <br/>
+   
+    <br/>
+   <br/>
+   <br/>
+   <br/>
+   <br/>
+   
+    <br/>
+   <br/>
+   <br/>
+   <br/>
+   <br/>
 
    <!-- contact-form start -->
    <div id="contact-form" class="contact-form">
